@@ -24,7 +24,7 @@ OpenAlpha是一个开源的行研平台，我们寻找有独特视角的投资�
   - [通讯400G/800G]()
   
 ## 人工智能
-  - [AIGC]()
+  - [AIGC](https://github.com/StarmanPlus/AIGC)
   - [AI4S](https://github.com/Paipipaipi/AI4S)
   - [对话机器人：垂直行业]()
   - [大脑：垂直行业、助手]()
